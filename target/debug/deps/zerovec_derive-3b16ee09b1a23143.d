@@ -1,0 +1,10 @@
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/zerovec_derive-3b16ee09b1a23143.d: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.7/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.7/src/make_ule.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.7/src/make_varule.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.7/src/ule.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.7/src/utils.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.7/src/varule.rs
+
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/libzerovec_derive-3b16ee09b1a23143.so: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.7/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.7/src/make_ule.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.7/src/make_varule.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.7/src/ule.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.7/src/utils.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.7/src/varule.rs
+
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.7/src/lib.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.7/src/make_ule.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.7/src/make_varule.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.7/src/ule.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.7/src/utils.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/zerovec-derive-0.11.7/src/varule.rs:

@@ -1,0 +1,14 @@
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/thiserror-9d78d69327dda197.d: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/build/thiserror-542833d8b278b91a/out/private.rs
+
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/libthiserror-9d78d69327dda197.rlib: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/build/thiserror-542833d8b278b91a/out/private.rs
+
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/libthiserror-9d78d69327dda197.rmeta: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs /home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/build/thiserror-542833d8b278b91a/out/private.rs
+
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/lib.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/aserror.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/display.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/var.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/thiserror-2.0.21/src/private.rs:
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/build/thiserror-542833d8b278b91a/out/private.rs:
+
+# env-dep:OUT_DIR=/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/build/thiserror-542833d8b278b91a/out

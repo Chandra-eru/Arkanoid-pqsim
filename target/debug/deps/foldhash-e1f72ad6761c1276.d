@@ -1,0 +1,11 @@
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/foldhash-e1f72ad6761c1276.d: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/fast.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/quality.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/seed.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/convenience.rs
+
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/libfoldhash-e1f72ad6761c1276.rlib: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/fast.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/quality.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/seed.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/convenience.rs
+
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/libfoldhash-e1f72ad6761c1276.rmeta: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/fast.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/quality.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/seed.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/convenience.rs
+
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/lib.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/fast.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/quality.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/seed.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/foldhash-0.2.0/src/convenience.rs:

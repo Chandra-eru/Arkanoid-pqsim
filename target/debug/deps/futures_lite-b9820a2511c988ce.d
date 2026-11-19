@@ -1,0 +1,11 @@
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/futures_lite-b9820a2511c988ce.d: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/future.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/prelude.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/stream.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/io.rs
+
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/libfutures_lite-b9820a2511c988ce.rlib: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/future.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/prelude.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/stream.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/io.rs
+
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/libfutures_lite-b9820a2511c988ce.rmeta: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/future.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/prelude.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/stream.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/io.rs
+
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/lib.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/future.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/prelude.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/stream.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/futures-lite-2.6.1/src/io.rs:

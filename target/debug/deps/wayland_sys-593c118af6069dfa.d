@@ -1,0 +1,11 @@
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/wayland_sys-593c118af6069dfa.d: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.11/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.11/src/common.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.11/src/client.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.11/src/server.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.11/src/egl.rs
+
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/libwayland_sys-593c118af6069dfa.rlib: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.11/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.11/src/common.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.11/src/client.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.11/src/server.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.11/src/egl.rs
+
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/libwayland_sys-593c118af6069dfa.rmeta: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.11/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.11/src/common.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.11/src/client.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.11/src/server.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.11/src/egl.rs
+
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.11/src/lib.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.11/src/common.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.11/src/client.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.11/src/server.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/wayland-sys-0.31.11/src/egl.rs:

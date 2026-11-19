@@ -1,0 +1,10 @@
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/owned_ttf_parser-8bc9b09dd60c83a3.d: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.25.1/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.25.1/src/convert.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.25.1/src/owned.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.25.1/src/preparse.rs
+
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/libowned_ttf_parser-8bc9b09dd60c83a3.rlib: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.25.1/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.25.1/src/convert.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.25.1/src/owned.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.25.1/src/preparse.rs
+
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/libowned_ttf_parser-8bc9b09dd60c83a3.rmeta: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.25.1/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.25.1/src/convert.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.25.1/src/owned.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.25.1/src/preparse.rs
+
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.25.1/src/lib.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.25.1/src/convert.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.25.1/src/owned.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/owned_ttf_parser-0.25.1/src/preparse.rs:

@@ -1,0 +1,10 @@
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/smithay_clipboard-6e74c89408b1dfa9.d: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/mime.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/state.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/worker.rs
+
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/libsmithay_clipboard-6e74c89408b1dfa9.rlib: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/mime.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/state.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/worker.rs
+
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/libsmithay_clipboard-6e74c89408b1dfa9.rmeta: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/mime.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/state.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/worker.rs
+
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/lib.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/mime.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/state.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/smithay-clipboard-0.7.3/src/worker.rs:

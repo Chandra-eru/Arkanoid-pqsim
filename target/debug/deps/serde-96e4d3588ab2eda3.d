@@ -1,0 +1,14 @@
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/serde-96e4d3588ab2eda3.d: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/build/serde-045d6d86c89f5c13/out/private.rs
+
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/libserde-96e4d3588ab2eda3.rlib: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/build/serde-045d6d86c89f5c13/out/private.rs
+
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/libserde-96e4d3588ab2eda3.rmeta: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs /home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/build/serde-045d6d86c89f5c13/out/private.rs
+
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/lib.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/integer128.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/mod.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/de.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/serde-1.0.229/src/private/ser.rs:
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/build/serde-045d6d86c89f5c13/out/private.rs:
+
+# env-dep:OUT_DIR=/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/build/serde-045d6d86c89f5c13/out

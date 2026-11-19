@@ -1,0 +1,11 @@
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/siphasher-2fa19f60359df688.d: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.4/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.4/src/common.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.4/src/sip.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.4/src/sip128.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.4/src/../README.md
+
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/libsiphasher-2fa19f60359df688.rlib: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.4/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.4/src/common.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.4/src/sip.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.4/src/sip128.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.4/src/../README.md
+
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/libsiphasher-2fa19f60359df688.rmeta: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.4/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.4/src/common.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.4/src/sip.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.4/src/sip128.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.4/src/../README.md
+
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.4/src/lib.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.4/src/common.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.4/src/sip.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.4/src/sip128.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/siphasher-1.0.4/src/../README.md:

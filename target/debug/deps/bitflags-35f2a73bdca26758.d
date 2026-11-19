@@ -1,0 +1,11 @@
+/home/gabrelmat/Projetos/Trecs_Rust/Sim_Bgraphs/target/debug/deps/bitflags-35f2a73bdca26758.d: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.2/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.2/src/iter.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.2/src/parser.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.2/src/traits.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.2/src/public.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.2/src/internal.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.2/src/external.rs
+
+/home/gabrelmat/Projetos/Trecs_Rust/Sim_Bgraphs/target/debug/deps/libbitflags-35f2a73bdca26758.rmeta: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.2/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.2/src/iter.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.2/src/parser.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.2/src/traits.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.2/src/public.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.2/src/internal.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.2/src/external.rs
+
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.2/src/lib.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.2/src/iter.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.2/src/parser.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.2/src/traits.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.2/src/public.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.2/src/internal.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/bitflags-2.13.2/src/external.rs:

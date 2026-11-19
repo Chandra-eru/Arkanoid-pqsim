@@ -1,0 +1,11 @@
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/enumflags2-2863fcd9666ed5df.d: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumflags2-0.7.12/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumflags2-0.7.12/src/formatting.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumflags2-0.7.12/src/fallible.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumflags2-0.7.12/src/iter.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumflags2-0.7.12/src/const_api.rs
+
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/libenumflags2-2863fcd9666ed5df.rlib: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumflags2-0.7.12/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumflags2-0.7.12/src/formatting.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumflags2-0.7.12/src/fallible.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumflags2-0.7.12/src/iter.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumflags2-0.7.12/src/const_api.rs
+
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/libenumflags2-2863fcd9666ed5df.rmeta: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumflags2-0.7.12/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumflags2-0.7.12/src/formatting.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumflags2-0.7.12/src/fallible.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumflags2-0.7.12/src/iter.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumflags2-0.7.12/src/const_api.rs
+
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumflags2-0.7.12/src/lib.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumflags2-0.7.12/src/formatting.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumflags2-0.7.12/src/fallible.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumflags2-0.7.12/src/iter.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/enumflags2-0.7.12/src/const_api.rs:

@@ -1,0 +1,11 @@
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/naga_types-fe4c35ffb662c9b4.d: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/glsl.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/hlsl.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/msl.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/spv.rs
+
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/libnaga_types-fe4c35ffb662c9b4.rlib: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/glsl.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/hlsl.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/msl.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/spv.rs
+
+/home/gabrelmat/Projetos/Trecs_Rust/Arkanoid/target/debug/deps/libnaga_types-fe4c35ffb662c9b4.rmeta: /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/lib.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/glsl.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/hlsl.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/msl.rs /home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/spv.rs
+
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/lib.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/glsl.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/hlsl.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/msl.rs:
+/home/gabrelmat/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/naga-types-30.0.2/src/spv.rs:
